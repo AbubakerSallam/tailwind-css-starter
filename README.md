@@ -8,7 +8,7 @@ Follow the Getting Started guide and build websites with Tailwind CSS. Also, fol
 ## Getting Started
 
 1.  Clone this repository
-  {{ your project name }}
+tailwind-css-starter
 
     Alternately you can download the zip file and unzip it.
 
